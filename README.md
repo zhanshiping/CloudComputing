@@ -6,3 +6,4 @@
 
 ## [三、本地安装VMware Workstation和CentOS操作系统](https://github.com/zhanshiping/CloudComputing/tree/master/Basics#%E4%B8%89%E6%9C%AC%E5%9C%B0%E5%AE%89%E8%A3%85vmware-workstation%E5%92%8Ccentos%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 
+# 实验二：[Wordpress](https://github.com/zhanshiping/CloudComputing/tree/master/Basics)
