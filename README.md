@@ -26,3 +26,17 @@
 
 ## [**三、利用Dockerfile创建一个完成WordPress安装的镜像并推送到Docker Hub**](https://github.com/zhanshiping/CloudComputing/tree/master/Docker#%E4%B8%89%E5%88%A9%E7%94%A8dockerfile%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%88%90wordpress%E5%AE%89%E8%A3%85%E7%9A%84%E9%95%9C%E5%83%8F%E5%B9%B6%E6%8E%A8%E9%80%81%E5%88%B0docker-hub)
 
+# 实验四：[ceph](https://github.com/zhanshiping/CloudComputing/tree/master/ceph)
+
+## [**一、配置各个节点**](https://github.com/zhanshiping/CloudComputing/tree/master/ceph#一配置各个节点)
+
+## [二、配置SSH服务器](https://github.com/zhanshiping/CloudComputing/tree/master/ceph#二配置ssh服务器)
+
+## [**三、ceph-deploy安装**](https://github.com/zhanshiping/CloudComputing/tree/master/ceph#三ceph-deploy安装)
+
+## [**四、**创建集群](https://github.com/zhanshiping/CloudComputing/tree/master/ceph#四-创建集群)
+
+## [**五、在所有节点上安装Ceph**](https://github.com/zhanshiping/CloudComputing/tree/master/ceph#五在所有节点上安装ceph)
+
+## [**六、检查集群状态**](https://github.com/zhanshiping/CloudComputing/tree/master/ceph#六检查集群状态)
+
