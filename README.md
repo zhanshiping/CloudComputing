@@ -34,7 +34,7 @@
 
 ## [**三、ceph-deploy安装**](https://github.com/zhanshiping/CloudComputing/tree/master/ceph#三ceph-deploy安装)
 
-## [**四、**创建集群](https://github.com/zhanshiping/CloudComputing/tree/master/ceph#四-创建集群)
+## [四、创建集群](https://github.com/zhanshiping/CloudComputing/tree/master/ceph#四-创建集群)
 
 ## [**五、在所有节点上安装Ceph**](https://github.com/zhanshiping/CloudComputing/tree/master/ceph#五在所有节点上安装ceph)
 
